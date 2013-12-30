@@ -21,5 +21,5 @@ check out:
 
 - wiki pages https://github.com/HoldenCaulfieldRye/DeepLearnNLP/wiki
     - intro: from machine learning concepts to deep convolutional neural network concepts
-    - practice: playing with DeepLearnNLP to increase performance and see what it has learned
+    - practice: guides you through how to play with DeepLearnNLP to increase performance and see what it has learned
     - next step: a much larger CNN capable of recognising plants based on images of plant components taken in the wild.         this wiki page is a copy of thoughts & references to preparatory material.
