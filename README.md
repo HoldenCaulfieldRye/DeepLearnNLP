@@ -1,9 +1,9 @@
 DeepLearnNLP
 ============
 
-matlab implementation of a deep convolutional neural network (aka CNN) for natural language processing.
-DeepLearnNLP learns the relationships between words (with no human guidance) in order to predict the next word in a sentence.
-forked from Geoffrey Hinton's Coursera course on machine learning with neural networks.
+Matlab implementation of a deep convolutional neural network (aka CNN) for natural language processing.  
+DeepLearnNLP learns the relationships between words (with no human guidance) in order to predict the next word in a sentence.  
+Forked from Geoffrey Hinton's Coursera course on machine learning with neural networks.  
 
 training data: 350k 4-word phrases
 architecture: 
